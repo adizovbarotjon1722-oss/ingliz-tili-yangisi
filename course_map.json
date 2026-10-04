@@ -1,0 +1,863 @@
+{
+ "course": "Navigate Beginner A1",
+ "coursebook": "Navigate Beginner A1 Coursebook (OUP)",
+ "workbook": "Navigate Beginner A1 Workbook (OUP)",
+ "rule": "Coursebook = darslik/mavzu; Workbook = amaliy mashq va uyga vazifa (bot ichida sahifa-havola + original mashqlar)",
+ "units": [
+  {
+   "unit": 1,
+   "title": "First meetings",
+   "coursebook_page": 6,
+   "review_coursebook_page": 15,
+   "lessons": [
+    {
+     "id": "1.1",
+     "title": "On business or on holiday?",
+     "coursebook_page": 6,
+     "grammar": "verb be (I/you)",
+     "type": "lesson"
+    },
+    {
+     "id": "1.2",
+     "title": "Where are you from?",
+     "coursebook_page": 8,
+     "grammar": "verb be (we/you)",
+     "type": "lesson"
+    },
+    {
+     "id": "1.3",
+     "title": "How do you spell that?",
+     "coursebook_page": 10,
+     "grammar": "question words",
+     "type": "lesson"
+    },
+    {
+     "id": "1.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 12,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "1.5",
+     "title": "Video: At the hotel",
+     "coursebook_page": 14,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "vocabulary",
+     "topic": "introductions",
+     "page": 4
+    },
+    {
+     "skill": "grammar",
+     "topic": "verb be (I/you)",
+     "page": 5
+    },
+    {
+     "skill": "vocabulary+pronunciation",
+     "topic": "numbers 1-10; countries",
+     "page": 6
+    },
+    {
+     "skill": "grammar",
+     "topic": "verb be (we/you)",
+     "page": 7
+    },
+    {
+     "skill": "vocabulary+pronunciation",
+     "topic": "the alphabet",
+     "page": 8
+    },
+    {
+     "skill": "grammar",
+     "topic": "question words",
+     "page": 9
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "hello and goodbye; filling in a form",
+     "page": 10
+    },
+    {
+     "skill": "listening for pleasure",
+     "topic": "Murder in Kingston",
+     "page": 11
+    }
+   ]
+  },
+  {
+   "unit": 2,
+   "title": "Questions",
+   "coursebook_page": 16,
+   "review_coursebook_page": 25,
+   "lessons": [
+    {
+     "id": "2.1",
+     "title": "What's this in English?",
+     "coursebook_page": 16,
+     "grammar": "this/that/these/those; verb be (it/they)",
+     "type": "lesson"
+    },
+    {
+     "id": "2.2",
+     "title": "What's your job?",
+     "coursebook_page": 18,
+     "grammar": "verb be (he/she/it/they)",
+     "type": "lesson"
+    },
+    {
+     "id": "2.3",
+     "title": "Where are they?",
+     "coursebook_page": 20,
+     "grammar": "subject pronouns; prepositions of place",
+     "type": "lesson"
+    },
+    {
+     "id": "2.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 22,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "2.5",
+     "title": "Video: Witney Antiques",
+     "coursebook_page": 24,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "vocabulary+pronunciation",
+     "topic": "objects; numbers 11-100",
+     "page": 12
+    },
+    {
+     "skill": "grammar",
+     "topic": "this/that/these/those; verb be (it/they)",
+     "page": 13
+    },
+    {
+     "skill": "vocabulary+pronunciation",
+     "topic": "jobs",
+     "page": 14
+    },
+    {
+     "skill": "grammar",
+     "topic": "verb be (he/she/it/they)",
+     "page": 15
+    },
+    {
+     "skill": "grammar",
+     "topic": "subject pronouns",
+     "page": 16
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "prepositions of place",
+     "page": 17
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "telling the time; a blog",
+     "page": 18
+    },
+    {
+     "skill": "review",
+     "topic": "Units 1 & 2",
+     "page": 19
+    }
+   ]
+  },
+  {
+   "unit": 3,
+   "title": "People and possessions",
+   "coursebook_page": 26,
+   "review_coursebook_page": 35,
+   "lessons": [
+    {
+     "id": "3.1",
+     "title": "My neighbours",
+     "coursebook_page": 26,
+     "grammar": "have got / has got",
+     "type": "lesson"
+    },
+    {
+     "id": "3.2",
+     "title": "Possessions",
+     "coursebook_page": 28,
+     "grammar": "have got: negatives and questions",
+     "type": "lesson"
+    },
+    {
+     "id": "3.3",
+     "title": "Family",
+     "coursebook_page": 30,
+     "grammar": "possessive determiners; possessive 's",
+     "type": "lesson"
+    },
+    {
+     "id": "3.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 32,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "3.5",
+     "title": "Video: A gadget-free life",
+     "coursebook_page": 34,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "vocabulary",
+     "topic": "adjective + noun phrases (1); irregular plurals",
+     "page": 20
+    },
+    {
+     "skill": "grammar",
+     "topic": "have got, has got",
+     "page": 21
+    },
+    {
+     "skill": "grammar+pronunciation",
+     "topic": "have got negatives and questions",
+     "page": 22
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "opposite adjectives",
+     "page": 23
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "family",
+     "page": 24
+    },
+    {
+     "skill": "grammar",
+     "topic": "possession",
+     "page": 25
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "everyday expressions; a social media message",
+     "page": 26
+    },
+    {
+     "skill": "listening for pleasure",
+     "topic": "Unusual collections",
+     "page": 27
+    }
+   ]
+  },
+  {
+   "unit": 4,
+   "title": "My life",
+   "coursebook_page": 36,
+   "review_coursebook_page": 45,
+   "lessons": [
+    {
+     "id": "4.1",
+     "title": "About me",
+     "coursebook_page": 36,
+     "grammar": "present simple positive",
+     "type": "lesson"
+    },
+    {
+     "id": "4.2",
+     "title": "Journeys",
+     "coursebook_page": 38,
+     "grammar": "present simple negative",
+     "type": "lesson"
+    },
+    {
+     "id": "4.3",
+     "title": "My day",
+     "coursebook_page": 40,
+     "grammar": "present simple yes/no questions",
+     "type": "lesson"
+    },
+    {
+     "id": "4.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 42,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "4.5",
+     "title": "Video: A day in the life of a journalist",
+     "coursebook_page": 44,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "grammar+pronunciation",
+     "topic": "present simple positive",
+     "page": 28
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "common verbs",
+     "page": 29
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "transport",
+     "page": 30
+    },
+    {
+     "skill": "grammar",
+     "topic": "present simple negative",
+     "page": 31
+    },
+    {
+     "skill": "vocabulary+pronunciation",
+     "topic": "daily activities",
+     "page": 32
+    },
+    {
+     "skill": "grammar",
+     "topic": "present simple yes/no questions",
+     "page": 33
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "in a shop; an informal email",
+     "page": 34
+    },
+    {
+     "skill": "review",
+     "topic": "Units 3 & 4",
+     "page": 35
+    }
+   ]
+  },
+  {
+   "unit": 5,
+   "title": "Style and design",
+   "coursebook_page": 46,
+   "review_coursebook_page": 55,
+   "lessons": [
+    {
+     "id": "5.1",
+     "title": "Clothes style",
+     "coursebook_page": 46,
+     "grammar": "adverbs of frequency",
+     "type": "lesson"
+    },
+    {
+     "id": "5.2",
+     "title": "Amazing architecture",
+     "coursebook_page": 48,
+     "grammar": "Wh- questions",
+     "type": "lesson"
+    },
+    {
+     "id": "5.3",
+     "title": "Styles around the world",
+     "coursebook_page": 50,
+     "grammar": "present simple - all forms",
+     "type": "lesson"
+    },
+    {
+     "id": "5.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 52,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "5.5",
+     "title": "Video: Architecture in Amsterdam",
+     "coursebook_page": 54,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "grammar",
+     "topic": "adverbs of frequency",
+     "page": 36
+    },
+    {
+     "skill": "vocabulary+pronunciation",
+     "topic": "colours and clothes",
+     "page": 37
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "adjectives",
+     "page": 38
+    },
+    {
+     "skill": "grammar",
+     "topic": "Wh- questions",
+     "page": 39
+    },
+    {
+     "skill": "grammar",
+     "topic": "present simple - all forms",
+     "page": 40
+    },
+    {
+     "skill": "vocabulary+pronunciation",
+     "topic": "parts of the body; adjective modifiers; plural forms",
+     "page": 41
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "travel information; making arrangements by text",
+     "page": 42
+    },
+    {
+     "skill": "reading for pleasure",
+     "topic": "The Girl with Red Hair",
+     "page": 43
+    }
+   ]
+  },
+  {
+   "unit": 6,
+   "title": "Places and facilities",
+   "coursebook_page": 56,
+   "review_coursebook_page": 65,
+   "lessons": [
+    {
+     "id": "6.1",
+     "title": "Two towns",
+     "coursebook_page": 56,
+     "grammar": "there is / there are",
+     "type": "lesson"
+    },
+    {
+     "id": "6.2",
+     "title": "Is there Wi-fi?",
+     "coursebook_page": 58,
+     "grammar": "Is there...? / Are there...?",
+     "type": "lesson"
+    },
+    {
+     "id": "6.3",
+     "title": "Has each flat got a kitchen?",
+     "coursebook_page": 60,
+     "grammar": "each and all the",
+     "type": "lesson"
+    },
+    {
+     "id": "6.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 62,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "6.5",
+     "title": "Video: House searching",
+     "coursebook_page": 64,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "vocabulary",
+     "topic": "places in a town",
+     "page": 44
+    },
+    {
+     "skill": "grammar",
+     "topic": "there is/there are",
+     "page": 45
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "hotel facilities",
+     "page": 46
+    },
+    {
+     "skill": "grammar+pronunciation",
+     "topic": "is there...? / are there...?",
+     "page": 47
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "rooms and furniture",
+     "page": 48
+    },
+    {
+     "skill": "grammar+pronunciation",
+     "topic": "all the and each; linking",
+     "page": 49
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "explaining problems; a hotel review",
+     "page": 50
+    },
+    {
+     "skill": "review",
+     "topic": "Units 5 & 6",
+     "page": 51
+    }
+   ]
+  },
+  {
+   "unit": 7,
+   "title": "Skills and interests",
+   "coursebook_page": 66,
+   "review_coursebook_page": 75,
+   "lessons": [
+    {
+     "id": "7.1",
+     "title": "She can paint",
+     "coursebook_page": 66,
+     "grammar": "can / can't",
+     "type": "lesson"
+    },
+    {
+     "id": "7.2",
+     "title": "Can you help?",
+     "coursebook_page": 68,
+     "grammar": "Can you...?",
+     "type": "lesson"
+    },
+    {
+     "id": "7.3",
+     "title": "I like going out",
+     "coursebook_page": 70,
+     "grammar": "like + -ing",
+     "type": "lesson"
+    },
+    {
+     "id": "7.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 72,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "7.5",
+     "title": "Video: An unusual hobby",
+     "coursebook_page": 74,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "vocabulary",
+     "topic": "skills",
+     "page": 52
+    },
+    {
+     "skill": "grammar+pronunciation",
+     "topic": "can/can't",
+     "page": 53
+    },
+    {
+     "skill": "grammar",
+     "topic": "Can you...?",
+     "page": 54
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "adverbs of manner",
+     "page": 55
+    },
+    {
+     "skill": "grammar+vocabulary",
+     "topic": "like + -ing; hobbies",
+     "page": 56
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "like, love, hate + -ing",
+     "page": 57
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "simple requests; a post on a social media website",
+     "page": 58
+    },
+    {
+     "skill": "reading for pleasure",
+     "topic": "Last Chance",
+     "page": 59
+    }
+   ]
+  },
+  {
+   "unit": 8,
+   "title": "Our past",
+   "coursebook_page": 76,
+   "review_coursebook_page": 85,
+   "lessons": [
+    {
+     "id": "8.1",
+     "title": "When we were seven",
+     "coursebook_page": 76,
+     "grammar": "verb be past simple",
+     "type": "lesson"
+    },
+    {
+     "id": "8.2",
+     "title": "Lives from the past",
+     "coursebook_page": 78,
+     "grammar": "past simple regular verbs",
+     "type": "lesson"
+    },
+    {
+     "id": "8.3",
+     "title": "Special moments",
+     "coursebook_page": 80,
+     "grammar": "object pronouns",
+     "type": "lesson"
+    },
+    {
+     "id": "8.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 82,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "8.5",
+     "title": "Video: The Wright siblings",
+     "coursebook_page": 84,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "grammar+pronunciation",
+     "topic": "verb be past simple",
+     "page": 60
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "dates",
+     "page": 61
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "was born/died",
+     "page": 62
+    },
+    {
+     "skill": "grammar+pronunciation",
+     "topic": "past simple regular verbs",
+     "page": 63
+    },
+    {
+     "skill": "grammar",
+     "topic": "object pronouns",
+     "page": 64
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "past time phrases",
+     "page": 65
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "special occasions; a biography",
+     "page": 66
+    },
+    {
+     "skill": "review",
+     "topic": "Units 7 & 8",
+     "page": 67
+    }
+   ]
+  },
+  {
+   "unit": 9,
+   "title": "Unusual stories",
+   "coursebook_page": 86,
+   "review_coursebook_page": 95,
+   "lessons": [
+    {
+     "id": "9.1",
+     "title": "Happy memories",
+     "coursebook_page": 86,
+     "grammar": "past simple irregular verbs",
+     "type": "lesson"
+    },
+    {
+     "id": "9.2",
+     "title": "A good excuse",
+     "coursebook_page": 88,
+     "grammar": "past simple negatives and questions",
+     "type": "lesson"
+    },
+    {
+     "id": "9.3",
+     "title": "News stories",
+     "coursebook_page": 90,
+     "grammar": "ago",
+     "type": "lesson"
+    },
+    {
+     "id": "9.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 92,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "9.5",
+     "title": "Video: Whatever the weather",
+     "coursebook_page": 94,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "grammar",
+     "topic": "past simple irregular verbs",
+     "page": 68
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "adjective + noun phrases (2)",
+     "page": 69
+    },
+    {
+     "skill": "grammar",
+     "topic": "past simple negatives and questions",
+     "page": 70
+    },
+    {
+     "skill": "vocabulary+pronunciation",
+     "topic": "verb phrases (1); sentence stress",
+     "page": 71
+    },
+    {
+     "skill": "grammar",
+     "topic": "ago",
+     "page": 72
+    },
+    {
+     "skill": "pronunciation",
+     "topic": "word stress in two-syllable words",
+     "page": 73
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "the weather; a review of an event",
+     "page": 74
+    },
+    {
+     "skill": "listening for pleasure",
+     "topic": "Kim Peek",
+     "page": 75
+    }
+   ]
+  },
+  {
+   "unit": 10,
+   "title": "New places, new projects",
+   "coursebook_page": 96,
+   "review_coursebook_page": 105,
+   "lessons": [
+    {
+     "id": "10.1",
+     "title": "We're going to raise £5,000",
+     "coursebook_page": 96,
+     "grammar": "going to: positive and negative",
+     "type": "lesson"
+    },
+    {
+     "id": "10.2",
+     "title": "A new life",
+     "coursebook_page": 98,
+     "grammar": "going to: questions and short answers",
+     "type": "lesson"
+    },
+    {
+     "id": "10.3",
+     "title": "Cafe cities",
+     "coursebook_page": 100,
+     "grammar": "would like",
+     "type": "lesson"
+    },
+    {
+     "id": "10.4",
+     "title": "Speaking and writing",
+     "coursebook_page": 102,
+     "grammar": null,
+     "type": "speaking_writing"
+    },
+    {
+     "id": "10.5",
+     "title": "Video: A New York cafe",
+     "coursebook_page": 104,
+     "grammar": null,
+     "type": "video"
+    }
+   ],
+   "workbook": [
+    {
+     "skill": "grammar+pronunciation",
+     "topic": "going to positive and negative",
+     "page": 76
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "future time phrases",
+     "page": 77
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "verb phrases (2)",
+     "page": 78
+    },
+    {
+     "skill": "grammar",
+     "topic": "going to questions and short answers",
+     "page": 79
+    },
+    {
+     "skill": "vocabulary",
+     "topic": "prepositions of time",
+     "page": 79
+    },
+    {
+     "skill": "grammar+vocabulary",
+     "topic": "would like; cafe food",
+     "page": 80
+    },
+    {
+     "skill": "pronunciation",
+     "topic": "silent letters",
+     "page": 81
+    },
+    {
+     "skill": "speaking+writing",
+     "topic": "ordering food and drink; invitations and thank-you notes",
+     "page": 82
+    },
+    {
+     "skill": "review",
+     "topic": "Units 9 & 10",
+     "page": 83
+    }
+   ]
+  }
+ ]
+}

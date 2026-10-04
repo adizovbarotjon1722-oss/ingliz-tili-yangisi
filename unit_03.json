@@ -1,0 +1,839 @@
+{
+ "unit": 3,
+ "title": "People and possessions",
+ "title_uz": "Odamlar va narsalar",
+ "lessons": [
+  {
+   "id": "3.1",
+   "title": "My neighbours",
+   "title_uz": "Mening qo'shnilarim",
+   "coursebook": {
+    "page": 26,
+    "use": "have got / has got, adjective + noun, irregular plurals"
+   },
+   "goals_uz": [
+    "Egalik: have got / has got",
+    "Sifat + ot birikmalari",
+    "Tartibsiz ko'plik"
+   ],
+   "explanation_uz": "<b>have got / has got — ega bo'lish</b>\n\n✅ I / you / we / they <b>have got</b> a car. (I've got)\n✅ He / she / it <b>has got</b> a dog. (She's got)\n\n<b>Sifat + ot:</b> sifat otdan OLDIN keladi: a <i>big</i> house, a <i>new</i> phone, an <i>old</i> car.\n\n<b>Tartibsiz ko'plik:</b> man → men · woman → women · child → children · person → people",
+   "vocab": [
+    {
+     "en": "car",
+     "uz": "mashina",
+     "example": "I've got a car."
+    },
+    {
+     "en": "dog",
+     "uz": "it",
+     "example": "She's got a dog."
+    },
+    {
+     "en": "house",
+     "uz": "uy",
+     "example": "They've got a big house."
+    },
+    {
+     "en": "computer",
+     "uz": "kompyuter",
+     "example": "He's got a new computer."
+    },
+    {
+     "en": "neighbour",
+     "uz": "qo'shni",
+     "example": "My neighbour is nice."
+    },
+    {
+     "en": "friend",
+     "uz": "do'st",
+     "example": "I've got a good friend."
+    },
+    {
+     "en": "child / children",
+     "uz": "bola / bolalar",
+     "example": "We've got two children."
+    },
+    {
+     "en": "man / men",
+     "uz": "erkak / erkaklar",
+     "example": "Two men are here."
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "I ___ got a car.",
+     "options": [
+      "have",
+      "has",
+      "am"
+     ],
+     "answer": "have",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "She ___ got a dog.",
+     "options": [
+      "has",
+      "have",
+      "is"
+     ],
+     "answer": "has",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "They ___ got a big house.",
+     "options": [
+      "have",
+      "has",
+      "are"
+     ],
+     "answer": "have",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'child' ning ko'pligi:",
+     "options": [
+      "childs",
+      "children",
+      "childrens"
+     ],
+     "answer": "children",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "'woman' ning ko'pligi: ___",
+     "answer": [
+      "women"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "got",
+      "a",
+      "She's",
+      "new",
+      "phone"
+     ],
+     "answer": "She's got a new phone"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "Qaysi biri to'g'ri?",
+     "options": [
+      "a house big",
+      "a big house",
+      "big a house"
+     ],
+     "answer": "a big house",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "He ___ got two cars.",
+     "options": [
+      "has",
+      "have",
+      "is"
+     ],
+     "answer": "has",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'people' — bu qaysi so'zning ko'pligi?",
+     "options": [
+      "person",
+      "man",
+      "child"
+     ],
+     "answer": "person",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "We ___ got a new computer.",
+     "options": [
+      "have",
+      "has",
+      "are"
+     ],
+     "answer": "have",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 20,
+      "what": "Adjective + noun phrases (1); irregular plurals"
+     },
+     {
+      "page": 21,
+      "what": "have got, has got"
+     }
+    ],
+    "bot_task_uz": "🏡 Qo'shni yoki do'stingiz haqida 3 gap yozing: 'My friend has got a ...'"
+   }
+  },
+  {
+   "id": "3.2",
+   "title": "Possessions",
+   "title_uz": "Narsalarim",
+   "coursebook": {
+    "page": 28,
+    "use": "have got: inkor va savol, qarama-qarshi sifatlar"
+   },
+   "goals_uz": [
+    "Inkor va savol shakllari",
+    "Qarama-qarshi sifatlar"
+   ],
+   "explanation_uz": "<b>have got — inkor va savol</b>\n\n❌ I <b>haven't got</b> a car. · She <b>hasn't got</b> a phone.\n❓ <b>Have</b> you got a pen? → Yes, I <b>have</b>. / No, I <b>haven't</b>.\n❓ <b>Has</b> he got a car? → Yes, he <b>has</b>. / No, he <b>hasn't</b>.\n\n↔️ <b>Qarama-qarshi sifatlar:</b> big–small · new–old · hot–cold · cheap–expensive · fast–slow · good–bad · easy–difficult",
+   "vocab": [
+    {
+     "en": "big / small",
+     "uz": "katta / kichik",
+     "example": "It's a big bag."
+    },
+    {
+     "en": "new / old",
+     "uz": "yangi / eski",
+     "example": "It's an old car."
+    },
+    {
+     "en": "hot / cold",
+     "uz": "issiq / sovuq",
+     "example": "The tea is hot."
+    },
+    {
+     "en": "cheap / expensive",
+     "uz": "arzon / qimmat",
+     "example": "This phone is expensive."
+    },
+    {
+     "en": "fast / slow",
+     "uz": "tez / sekin",
+     "example": "It's a fast car."
+    },
+    {
+     "en": "good / bad",
+     "uz": "yaxshi / yomon",
+     "example": "It's a good book."
+    },
+    {
+     "en": "easy / difficult",
+     "uz": "oson / qiyin",
+     "example": "English is easy."
+    },
+    {
+     "en": "pen",
+     "uz": "ruchka",
+     "example": "Have you got a pen?"
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "I ___ got a car. (yo'q)",
+     "options": [
+      "haven't",
+      "hasn't",
+      "don't"
+     ],
+     "answer": "haven't",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "She ___ got a phone. (yo'q)",
+     "options": [
+      "hasn't",
+      "haven't",
+      "isn't"
+     ],
+     "answer": "hasn't",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "___ you got a pen?",
+     "options": [
+      "Have",
+      "Has",
+      "Are"
+     ],
+     "answer": "Have",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "___ he got a car?",
+     "options": [
+      "Has",
+      "Have",
+      "Is"
+     ],
+     "answer": "Has",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "'big' ning teskarisi: ___",
+     "answer": [
+      "small"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "'cheap' ning teskarisi: ___",
+     "answer": [
+      "expensive"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "got",
+      "Have",
+      "a",
+      "you",
+      "pen",
+      "?"
+     ],
+     "answer": "Have you got a pen ?"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "Has she got a bag? — No, she ___ .",
+     "options": [
+      "hasn't",
+      "haven't",
+      "isn't"
+     ],
+     "answer": "hasn't",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Have they got a dog? — Yes, they ___ .",
+     "options": [
+      "have",
+      "has",
+      "are"
+     ],
+     "answer": "have",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'new' ning teskarisi:",
+     "options": [
+      "old",
+      "cold",
+      "slow"
+     ],
+     "answer": "old",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'easy' ning teskarisi:",
+     "options": [
+      "difficult",
+      "cheap",
+      "small"
+     ],
+     "answer": "difficult",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 22,
+      "what": "have got negatives and questions (grammar + pronunciation)"
+     },
+     {
+      "page": 23,
+      "what": "Opposite adjectives"
+     }
+    ],
+    "bot_task_uz": "🔁 5 ta qarama-qarshi sifat juftini o'zingiz gapda ishlating: 'My phone is new. My car is old.'"
+   }
+  },
+  {
+   "id": "3.3",
+   "title": "Family",
+   "title_uz": "Oila",
+   "coursebook": {
+    "page": 30,
+    "use": "possessive determiners, possessive 's, family"
+   },
+   "goals_uz": [
+    "Oila a'zolari",
+    "my, your, his, her, our, their",
+    "Egalik 's"
+   ],
+   "explanation_uz": "<b>Possessive determiners (egalik sifatlari)</b>\nI → <b>my</b> · you → <b>your</b> · he → <b>his</b> · she → <b>her</b> · we → <b>our</b> · they → <b>their</b>\n<i>This is Anna. <b>Her</b> brother is Tom.</i>\n\n<b>Possessive 's — kimning?</b>\nAnna<b>'s</b> brother = Annaning akasi · my father<b>'s</b> car = otamning mashinasi\n💡 Ko'plikda: my parents<b>'</b> house.\n💡 <i>Tom's a doctor</i> (Tom is) ≠ <i>Tom's car</i> (Tomning).",
+   "vocab": [
+    {
+     "en": "mother / father",
+     "uz": "ona / ota",
+     "example": "My mother is a nurse."
+    },
+    {
+     "en": "sister / brother",
+     "uz": "opa-singil / aka-uka",
+     "example": "Her brother is a driver."
+    },
+    {
+     "en": "parents",
+     "uz": "ota-ona",
+     "example": "Their parents are teachers."
+    },
+    {
+     "en": "grandmother / grandfather",
+     "uz": "buvi / bobo",
+     "example": "Our grandfather is old."
+    },
+    {
+     "en": "husband / wife",
+     "uz": "er / xotin",
+     "example": "Her husband is an engineer."
+    },
+    {
+     "en": "son / daughter",
+     "uz": "o'g'il / qiz",
+     "example": "His son is a student."
+    },
+    {
+     "en": "family",
+     "uz": "oila",
+     "example": "I've got a big family."
+    },
+    {
+     "en": "our",
+     "uz": "bizning",
+     "example": "Our house is big."
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "This is Anna. ___ brother is Tom.",
+     "options": [
+      "Her",
+      "His",
+      "Their"
+     ],
+     "answer": "Her",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Tom and I are brothers. ___ mother is a nurse.",
+     "options": [
+      "Our",
+      "Their",
+      "Your"
+     ],
+     "answer": "Our",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Ali ___ sister is a doctor.",
+     "options": [
+      "'s",
+      "s",
+      "is"
+     ],
+     "answer": "'s",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Tom: I've got a car. — ___ car is new.",
+     "options": [
+      "My",
+      "His",
+      "Her"
+     ],
+     "answer": "My",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "My father's wife is my ___",
+     "answer": [
+      "mother"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "is",
+      "Anna's",
+      "Tom",
+      "brother",
+      "."
+     ],
+     "answer": "Tom is Anna's brother ."
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "Mr and Mrs Kim are teachers. ___ son is a student.",
+     "options": [
+      "Their",
+      "Our",
+      "His"
+     ],
+     "answer": "Their",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'Anna's bag' o'zbekcha:",
+     "options": [
+      "Annaning sumkasi",
+      "Anna sumka",
+      "Anna bor"
+     ],
+     "answer": "Annaning sumkasi",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "You've got a car. ___ car is fast.",
+     "options": [
+      "Your",
+      "My",
+      "Her"
+     ],
+     "answer": "Your",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'Grandfather' —",
+     "options": [
+      "bobo",
+      "buvi",
+      "amaki"
+     ],
+     "answer": "bobo",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 24,
+      "what": "Family (vocabulary)"
+     },
+     {
+      "page": 25,
+      "what": "Possession (possessive determiners and 's)"
+     }
+    ],
+    "bot_task_uz": "👨‍👩‍👧 Oilangiz haqida 5 gap yozing: 'My mother's name is ...'"
+   }
+  },
+  {
+   "id": "3.4",
+   "title": "Speaking and writing",
+   "title_uz": "Gapirish va yozish: kundalik iboralar, ijtimoiy tarmoq xabari",
+   "coursebook": {
+    "page": 32,
+    "use": "everyday expressions; a social media message"
+   },
+   "goals_uz": [
+    "Kundalik iboralar (rahmat, uzr...)",
+    "Ijtimoiy tarmoqqa qisqa xabar yozish"
+   ],
+   "explanation_uz": "<b>Kundalik iboralar</b>\n• Excuse me! — Kechirasiz! (e'tibor jalb qilish)\n• Sorry! → No problem. — Uzr! → Hechqisi yo'q.\n• Thank you / Thanks → You're welcome. — Rahmat → Arzimaydi.\n• Pardon? / Sorry? — Qaytaring, iltimos.\n• Can I have a pen? → Sure. Here you are. — Mayli. Marhamat.\n\n📱 <b>Xabar namunasi:</b>\n<i>Hi Sara! I've got a new phone. It's big and cool! Have you got a new phone? Bye!</i>",
+   "vocab": [
+    {
+     "en": "Excuse me",
+     "uz": "Kechirasiz",
+     "example": "Excuse me, where's the door?"
+    },
+    {
+     "en": "Sorry",
+     "uz": "Uzr",
+     "example": "Sorry, I'm late."
+    },
+    {
+     "en": "No problem",
+     "uz": "Hechqisi yo'q",
+     "example": "Sorry! — No problem."
+    },
+    {
+     "en": "Thanks",
+     "uz": "Rahmat",
+     "example": "Thanks a lot!"
+    },
+    {
+     "en": "You're welcome",
+     "uz": "Arzimaydi",
+     "example": "Thank you. — You're welcome."
+    },
+    {
+     "en": "Pardon?",
+     "uz": "Qaytaring",
+     "example": "Pardon? Can you repeat that?"
+    },
+    {
+     "en": "Sure",
+     "uz": "Albatta",
+     "example": "Can I have a pen? — Sure."
+    },
+    {
+     "en": "Here you are",
+     "uz": "Marhamat",
+     "example": "Here you are."
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "Thank you. — ___",
+     "options": [
+      "You're welcome.",
+      "Sorry.",
+      "Excuse me."
+     ],
+     "answer": "You're welcome.",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Sorry! — ___",
+     "options": [
+      "No problem.",
+      "Thanks.",
+      "Pardon?"
+     ],
+     "answer": "No problem.",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Can I have a pen? — ___",
+     "options": [
+      "Sure. Here you are.",
+      "You're welcome.",
+      "Goodbye."
+     ],
+     "answer": "Sure. Here you are.",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Notanish odamga murojaat:",
+     "options": [
+      "Excuse me!",
+      "Thanks!",
+      "Bye!"
+     ],
+     "answer": "Excuse me!",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "Tushunmadingiz: ___? (bir so'z)",
+     "answer": [
+      "pardon",
+      "sorry"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "got",
+      "I've",
+      "phone",
+      "a",
+      "new"
+     ],
+     "answer": "I've got a new phone"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "'Here you are' qachon aytiladi?",
+     "options": [
+      "biror narsa berganda",
+      "xayrlashganda",
+      "uzr so'raganda"
+     ],
+     "answer": "biror narsa berganda",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Thanks! — ___",
+     "options": [
+      "You're welcome.",
+      "Pardon?",
+      "Excuse me."
+     ],
+     "answer": "You're welcome.",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 26,
+      "what": "Speaking: everyday expressions; Writing: a social media message"
+     },
+     {
+      "page": 27,
+      "what": "Listening for pleasure: Unusual collections (ixtiyoriy)"
+     }
+    ],
+    "bot_task_uz": "📱 Do'stingizga yozadigan qisqa xabar yozing (4 gap): yangi narsangiz haqida."
+   }
+  },
+  {
+   "id": "3.5",
+   "title": "Video: A gadget-free life + Review",
+   "title_uz": "Video: gadgetsiz hayot + Takrorlash",
+   "coursebook": {
+    "page": 34,
+    "use": "video va 3-bo'lim takrori",
+    "review_page": 35
+   },
+   "goals_uz": [
+    "Videoni tushunish",
+    "3-bo'lim materialini takrorlash"
+   ],
+   "explanation_uz": "🎬 Videoni ko'ring: oila qanday gadgetlarga ega? Ular telefon ishlatadimi?\n\n📚 Takrorlash: have got / has got · inkor va savol · qarama-qarshi sifatlar · oila · my/your/his/her/our/their · 's · kundalik iboralar.",
+   "vocab": [],
+   "practice": [],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "She ___ got a dog.",
+     "options": [
+      "has",
+      "have",
+      "is"
+     ],
+     "answer": "has",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "___ you got a phone?",
+     "options": [
+      "Have",
+      "Has",
+      "Are"
+     ],
+     "answer": "Have",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "He hasn't got a car. Bu gap —",
+     "options": [
+      "inkor",
+      "savol",
+      "darak"
+     ],
+     "answer": "inkor",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'expensive' ning teskarisi:",
+     "options": [
+      "cheap",
+      "slow",
+      "old"
+     ],
+     "answer": "cheap",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Anna is my sister. ___ husband is a doctor.",
+     "options": [
+      "Her",
+      "His",
+      "Their"
+     ],
+     "answer": "Her",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'children' — bu ...ning ko'pligi",
+     "options": [
+      "child",
+      "man",
+      "person"
+     ],
+     "answer": "child",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Sorry! — ___",
+     "options": [
+      "No problem.",
+      "Please.",
+      "Bye."
+     ],
+     "answer": "No problem.",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "This is Tom's car. Qaysi biri 'Tomning'?",
+     "options": [
+      "Tom's",
+      "Tom is",
+      "Toms"
+     ],
+     "answer": "Tom's",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 35,
+      "what": "Review: Units 3 & 4 (4-bo'limdan keyin bajariladi)"
+     }
+    ],
+    "bot_task_uz": "🏁 3-bo'lim imtihoni: 80% dan yuqori bo'lsa 4-bo'lim ochiladi."
+   }
+  }
+ ],
+ "vocab_review_after": 3,
+ "exam": {
+  "pass_percent": 80,
+  "note_uz": "Imtihon savollari dars quizlaridan tuziladi (seeder avtomatik)."
+ },
+ "copyright_note": "Mashqlar va tushuntirishlar original yozilgan; kitob mashqlari ko'chirilmagan — uyga vazifa sahifa raqami bilan havola qilinadi."
+}

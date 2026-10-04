@@ -1,0 +1,793 @@
+{
+ "unit": 1,
+ "title": "First meetings",
+ "title_uz": "Birinchi uchrashuvlar",
+ "lessons": [
+  {
+   "id": "1.1",
+   "title": "On business or on holiday?",
+   "title_uz": "Tanishuv: ishda yoki ta'tilda?",
+   "coursebook": {
+    "page": 6,
+    "use": "mavzu, dialog, grammatika (verb be I/you)"
+   },
+   "goals_uz": [
+    "O'zingizni tanishtirish",
+    "be fe'li bilan savol berish (I / you)"
+   ],
+   "explanation_uz": "<b>Verb be — I / you</b>\n\n✅ <b>Darak gap:</b> I'm (=I am) Anvar. · You're (=You are) Lola.\n❌ <b>Inkor:</b> I'm not on holiday. · You aren't here to study.\n❓ <b>Savol:</b> Are you here on holiday? → Yes, I am. / No, I'm not.\n\n💡 Savolda <b>Are</b> gapning boshiga chiqadi: <i>You are</i> → <i>Are you</i>...?\n💡 Qisqa javobda fe'lni qisqartirmaymiz: <i>Yes, I am.</i> (❌ Yes, I'm.)",
+   "vocab": [
+    {
+     "en": "Hello / Hi",
+     "uz": "Salom",
+     "example": "Hello, I'm Anvar."
+    },
+    {
+     "en": "Nice to meet you",
+     "uz": "Tanishganimdan xursandman",
+     "example": "Nice to meet you, too."
+    },
+    {
+     "en": "on business",
+     "uz": "ish safarida",
+     "example": "I'm here on business."
+    },
+    {
+     "en": "on holiday",
+     "uz": "ta'tilda / dam olishda",
+     "example": "We're here on holiday."
+    },
+    {
+     "en": "to study",
+     "uz": "o'qish uchun",
+     "example": "I'm here to study."
+    },
+    {
+     "en": "here",
+     "uz": "bu yerda",
+     "example": "Are you here on holiday?"
+    },
+    {
+     "en": "yes / no",
+     "uz": "ha / yo'q",
+     "example": "Yes, I am. No, I'm not."
+    },
+    {
+     "en": "and you?",
+     "uz": "Sizchi?",
+     "example": "I'm fine. And you?"
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "___ Lola. (I ... )",
+     "options": [
+      "I'm",
+      "Am I",
+      "You aren't"
+     ],
+     "answer": "I'm",
+     "hint_uz": "I + am = I'm"
+    },
+    {
+     "type": "choice",
+     "q": "___ here on holiday?",
+     "options": [
+      "Are you",
+      "You're",
+      "I'm"
+     ],
+     "answer": "Are you",
+     "hint_uz": "Savol: Are + you"
+    },
+    {
+     "type": "fill",
+     "q": "Nice to ___ you.",
+     "answer": [
+      "meet"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "Are you here on business? — No, I ___ .",
+     "answer": [
+      "'m not",
+      "am not",
+      "m not"
+     ],
+     "hint_uz": "I am not = I'm not"
+    },
+    {
+     "type": "order",
+     "words": [
+      "here",
+      "Are",
+      "on",
+      "you",
+      "holiday",
+      "?"
+     ],
+     "answer": "Are you here on holiday ?"
+    },
+    {
+     "type": "choice",
+     "q": "Ali: Hi, I'm Ali. Sara: ___ Sara.",
+     "options": [
+      "Hi, I'm",
+      "Are you",
+      "You're not"
+     ],
+     "answer": "Hi, I'm",
+     "hint_uz": ""
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "Qaysi biri to'g'ri savol?",
+     "options": [
+      "You are here to study?",
+      "Are you here to study?",
+      "Are here you to study?"
+     ],
+     "answer": "Are you here to study?",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'I'm not' — bu ...",
+     "options": [
+      "I am not",
+      "I have not",
+      "I was not"
+     ],
+     "answer": "I am not",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'On holiday' o'zbekcha ...",
+     "options": [
+      "ishda",
+      "ta'tilda",
+      "o'qishda"
+     ],
+     "answer": "ta'tilda",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Are you here on business? — Yes, ___ .",
+     "options": [
+      "I'm",
+      "I am",
+      "you are"
+     ],
+     "answer": "I am",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 4,
+      "what": "Introductions (vocabulary) — 1-chi mashq"
+     },
+     {
+      "page": 5,
+      "what": "1.1 mashqlar 2–3"
+     },
+     {
+      "page": 6,
+      "what": "Verb be (I/you) — mashqlar 4–6"
+     }
+    ],
+    "bot_task_uz": "🎙 Ovozli xabar yuboring: o'zingizni 3 gapda tanishtiring (Hello, I'm ... I'm here to study)."
+   }
+  },
+  {
+   "id": "1.2",
+   "title": "Where are you from?",
+   "title_uz": "Siz qayerdansiz?",
+   "coursebook": {
+    "page": 8,
+    "use": "raqamlar 1-10, davlatlar, verb be (we/you)"
+   },
+   "goals_uz": [
+    "1–10 raqamlari va davlat nomlari",
+    "we / you bilan be fe'li",
+    "'Where are you from?' savoliga javob"
+   ],
+   "explanation_uz": "<b>Verb be — we / you</b>\n\n✅ We're (=We are) from Uzbekistan. · You're from Turkey.\n❌ We aren't from Japan.\n❓ Are we late? · Are you from Brazil? → Yes, we are. / No, we aren't.\n\n🌍 <b>Where are you from?</b> → I'm from Uzbekistan.\n\n🔢 1 one · 2 two · 3 three · 4 four · 5 five · 6 six · 7 seven · 8 eight · 9 nine · 10 ten",
+   "vocab": [
+    {
+     "en": "Uzbekistan",
+     "uz": "O'zbekiston",
+     "example": "I'm from Uzbekistan."
+    },
+    {
+     "en": "Russia",
+     "uz": "Rossiya",
+     "example": "They're from Russia."
+    },
+    {
+     "en": "Turkey",
+     "uz": "Turkiya",
+     "example": "We're from Turkey."
+    },
+    {
+     "en": "China",
+     "uz": "Xitoy",
+     "example": "She's from China."
+    },
+    {
+     "en": "Japan",
+     "uz": "Yaponiya",
+     "example": "Are you from Japan?"
+    },
+    {
+     "en": "Brazil",
+     "uz": "Braziliya",
+     "example": "He's from Brazil."
+    },
+    {
+     "en": "Australia",
+     "uz": "Avstraliya",
+     "example": "We're from Australia."
+    },
+    {
+     "en": "from",
+     "uz": "-dan (kelib chiqish)",
+     "example": "Where are you from?"
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "We ___ from Uzbekistan.",
+     "options": [
+      "'re",
+      "am",
+      "is"
+     ],
+     "answer": "'re",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Where ___ you from?",
+     "options": [
+      "are",
+      "is",
+      "am"
+     ],
+     "answer": "are",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "1, 2, 3, 4, ___ , 6 (raqam so'z bilan)",
+     "answer": [
+      "five"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "2 + 6 = ___ (so'z bilan)",
+     "answer": [
+      "eight"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Tokyo — qaysi davlat?",
+     "options": [
+      "China",
+      "Japan",
+      "Brazil"
+     ],
+     "answer": "Japan",
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "from",
+      "Where",
+      "you",
+      "are",
+      "?"
+     ],
+     "answer": "Where are you from ?"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "Are you from Turkey? — No, we ___ .",
+     "options": [
+      "aren't",
+      "isn't",
+      "not"
+     ],
+     "answer": "aren't",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'Uzbekistan' — stress qaysi bo'g'inda? (Uz-bek-i-STAN)",
+     "options": [
+      "1-bo'g'in",
+      "4-bo'g'in",
+      "2-bo'g'in"
+     ],
+     "answer": "4-bo'g'in",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "10 - 4 = ?",
+     "options": [
+      "six",
+      "seven",
+      "five"
+     ],
+     "answer": "six",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'We're' — bu ...",
+     "options": [
+      "We are",
+      "We were",
+      "We have"
+     ],
+     "answer": "We are",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 6,
+      "what": "Numbers 1–10; countries (mashqlar 1–5)"
+     },
+     {
+      "page": 7,
+      "what": "Verb be (we/you)"
+     }
+    ],
+    "bot_task_uz": "🌍 Do'stingizdan 'Where are you from?' deb so'rang va javobini bot'ga yozing."
+   }
+  },
+  {
+   "id": "1.3",
+   "title": "How do you spell that?",
+   "title_uz": "Buni qanday yozasiz? (alifbo)",
+   "coursebook": {
+    "page": 10,
+    "use": "alifbo, question words"
+   },
+   "goals_uz": [
+    "Inglizcha alifboni aytish",
+    "Ismni harflab aytish",
+    "Savol so'zlari: What, Where, Who, How"
+   ],
+   "explanation_uz": "<b>Alifbo:</b> A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n🗣 <b>How do you spell that?</b> → A-N-V-A-R.\n\n<b>Savol so'zlari (question words):</b>\n• <b>What</b> — nima? What's your name?\n• <b>Where</b> — qayerda / qayerdan? Where are you from?\n• <b>Who</b> — kim? Who's he?\n• <b>How</b> — qanday? How do you spell that?",
+   "vocab": [
+    {
+     "en": "name",
+     "uz": "ism",
+     "example": "What's your name?"
+    },
+    {
+     "en": "surname",
+     "uz": "familiya",
+     "example": "How do you spell your surname?"
+    },
+    {
+     "en": "spell",
+     "uz": "harflab aytmoq",
+     "example": "How do you spell that?"
+    },
+    {
+     "en": "what",
+     "uz": "nima",
+     "example": "What's this?"
+    },
+    {
+     "en": "where",
+     "uz": "qayerda",
+     "example": "Where are you?"
+    },
+    {
+     "en": "who",
+     "uz": "kim",
+     "example": "Who are you?"
+    },
+    {
+     "en": "how",
+     "uz": "qanday",
+     "example": "How are you?"
+    },
+    {
+     "en": "letter",
+     "uz": "harf",
+     "example": "B is a letter."
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "___ do you spell that?",
+     "options": [
+      "How",
+      "Who",
+      "Where"
+     ],
+     "answer": "How",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "___ are you from?",
+     "options": [
+      "Where",
+      "What",
+      "Who"
+     ],
+     "answer": "Where",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "___'s your name?",
+     "options": [
+      "What",
+      "Where",
+      "How"
+     ],
+     "answer": "What",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "Ismingizni harflang: ALI → A-L-___",
+     "answer": [
+      "I",
+      "i"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "M-A-R-Y — bu ism: ___",
+     "answer": [
+      "Mary",
+      "mary"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "your",
+      "What's",
+      "name",
+      "?"
+     ],
+     "answer": "What's your name ?"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "'Who' nimani so'raydi?",
+     "options": [
+      "joyni",
+      "odamni",
+      "vaqtni"
+     ],
+     "answer": "odamni",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'Where' nimani so'raydi?",
+     "options": [
+      "joyni",
+      "odamni",
+      "narsani"
+     ],
+     "answer": "joyni",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "How do you spell 'cat'?",
+     "options": [
+      "C-A-T",
+      "K-A-T",
+      "S-A-T"
+     ],
+     "answer": "C-A-T",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Qaysi biri savol so'zi EMAS?",
+     "options": [
+      "what",
+      "hello",
+      "where"
+     ],
+     "answer": "hello",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 8,
+      "what": "The alphabet (mashqlar)"
+     },
+     {
+      "page": 9,
+      "what": "Question words"
+     }
+    ],
+    "bot_task_uz": "🔤 Ovozli xabar: ismingiz va familiyangizni inglizcha harflab ayting."
+   }
+  },
+  {
+   "id": "1.4",
+   "title": "Speaking and writing",
+   "title_uz": "Gapirish va yozish: salomlashish, anketa",
+   "coursebook": {
+    "page": 12,
+    "use": "hello and goodbye; filling in a form"
+   },
+   "goals_uz": [
+    "Salomlashish va xayrlashish iboralari",
+    "Oddiy anketani to'ldirish"
+   ],
+   "explanation_uz": "<b>Salomlashish:</b> Hello · Hi · Good morning · Good afternoon · Good evening\n<b>Xayrlashish:</b> Goodbye · Bye · See you · Good night\n\n📝 <b>Anketa (form):</b>\nFirst name: Anvar\nSurname: Karimov\nCountry: Uzbekistan\nPhone number: +998 90 123 45 67\nEmail: anvar@mail.com",
+   "vocab": [
+    {
+     "en": "Goodbye / Bye",
+     "uz": "Xayr",
+     "example": "Goodbye, Anna!"
+    },
+    {
+     "en": "See you",
+     "uz": "Ko'rishguncha",
+     "example": "See you tomorrow."
+    },
+    {
+     "en": "Good morning",
+     "uz": "Xayrli tong",
+     "example": "Good morning, Ben."
+    },
+    {
+     "en": "first name",
+     "uz": "ism",
+     "example": "My first name is Lola."
+    },
+    {
+     "en": "surname",
+     "uz": "familiya",
+     "example": "My surname is Aliyeva."
+    },
+    {
+     "en": "country",
+     "uz": "davlat",
+     "example": "My country is Uzbekistan."
+    },
+    {
+     "en": "phone number",
+     "uz": "telefon raqami",
+     "example": "What's your phone number?"
+    },
+    {
+     "en": "email",
+     "uz": "elektron pochta",
+     "example": "My email is lola@mail.com."
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "Ertalab salomlashish:",
+     "options": [
+      "Good morning",
+      "Good night",
+      "Goodbye"
+     ],
+     "answer": "Good morning",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Xayrlashish iborasi:",
+     "options": [
+      "Hi",
+      "Bye",
+      "Hello"
+     ],
+     "answer": "Bye",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "Family name = ___",
+     "answer": [
+      "surname"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Anketada 'Country' ga nima yoziladi?",
+     "options": [
+      "Uzbekistan",
+      "Anvar",
+      "998901234567"
+     ],
+     "answer": "Uzbekistan",
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "See",
+      "tomorrow",
+      "you"
+     ],
+     "answer": "See you tomorrow"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "Good night — qachon aytiladi?",
+     "options": [
+      "uchrashganda",
+      "uyquga ketishdan oldin",
+      "tushlikda"
+     ],
+     "answer": "uyquga ketishdan oldin",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'First name' bu ...",
+     "options": [
+      "familiya",
+      "ism",
+      "davlat"
+     ],
+     "answer": "ism",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 10,
+      "what": "Speaking: hello and goodbye; Writing: filling in a form"
+     },
+     {
+      "page": 11,
+      "what": "Listening for pleasure: Murder in Kingston (ixtiyoriy)"
+     }
+    ],
+    "bot_task_uz": "📝 Bot ichida anketa to'ldiring: ism, familiya, davlat, telefon (bot tekshiradi)."
+   }
+  },
+  {
+   "id": "1.5",
+   "title": "Video: At the hotel + Review",
+   "title_uz": "Video: mehmonxonada + Takrorlash",
+   "coursebook": {
+    "page": 14,
+    "review_page": 15,
+    "use": "video va bo'lim takrori"
+   },
+   "goals_uz": [
+    "Video dialogni tushunish",
+    "1-bo'lim materialini takrorlash"
+   ],
+   "explanation_uz": "🎬 Videoni ko'ring va savollarga javob bering: kim mehmonxonaga keldi? Ismi nima? Qayerdan?\n\n📚 Takrorlash: be (I/you/we/you) · raqamlar 1–10 · davlatlar · alifbo · question words · salomlashish.",
+   "vocab": [],
+   "practice": [],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "___ you here on business? — Yes, I am.",
+     "options": [
+      "Are",
+      "Is",
+      "Am"
+     ],
+     "answer": "Are",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "We ___ from Brazil.",
+     "options": [
+      "'re",
+      "'m",
+      "is"
+     ],
+     "answer": "'re",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "How do you ___ that?",
+     "options": [
+      "spell",
+      "spelling",
+      "spells"
+     ],
+     "answer": "spell",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "7 = ?",
+     "options": [
+      "seven",
+      "six",
+      "nine"
+     ],
+     "answer": "seven",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'I'm not' shakli:",
+     "options": [
+      "I am not",
+      "I not am",
+      "Am I not"
+     ],
+     "answer": "I am not",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Xayrlashish:",
+     "options": [
+      "Bye",
+      "Hello",
+      "Hi"
+     ],
+     "answer": "Bye",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 4,
+      "what": "1-bo'lim bo'yicha qayta ko'rib chiqish"
+     }
+    ],
+    "bot_task_uz": "🏁 Bo'lim imtihoniga tayyorlaning: 80% dan yuqori bo'lsa 2-bo'lim ochiladi."
+   }
+  }
+ ],
+ "vocab_review_after": 3,
+ "exam": {
+  "pass_percent": 80,
+  "note_uz": "Imtihon savollari dars quizlaridan tuziladi (seeder avtomatik)."
+ },
+ "copyright_note": "Mashqlar va tushuntirishlar original yozilgan; kitob mashqlari ko'chirilmagan — uyga vazifa sahifa raqami bilan havola qilinadi."
+}

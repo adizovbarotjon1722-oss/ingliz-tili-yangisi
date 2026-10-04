@@ -1,0 +1,841 @@
+{
+ "unit": 2,
+ "title": "Questions",
+ "title_uz": "Savollar",
+ "lessons": [
+  {
+   "id": "2.1",
+   "title": "What's this in English?",
+   "title_uz": "Bu inglizchada nima?",
+   "coursebook": {
+    "page": 16,
+    "use": "this/that/these/those, verb be (it/they), ko'plik, raqamlar 11-100"
+   },
+   "goals_uz": [
+    "Narsalarni this/that/these/those bilan ko'rsatish",
+    "Ko'plik shakli",
+    "11–100 raqamlari"
+   ],
+   "explanation_uz": "<b>this / that / these / those</b>\n\n👉 <b>Yaqindagi:</b> this (bitta) — <i>This is a phone.</i> · these (ko'p) — <i>These are keys.</i>\n👉 <b>Uzoqdagi:</b> that (bitta) — <i>That is a bag.</i> · those (ko'p) — <i>Those are books.</i>\n\n❓ What's this in English? → <i>It's a pen.</i>\n❓ What are these? → <i>They're pens.</i>\n\n<b>Ko'plik (plural):</b>\n• odatda +s: pen → pens\n• s, x, ch, sh dan keyin +es: box → boxes, watch → watches\n\n🔢 <b>11–100:</b> 11 eleven · 12 twelve · 13 thirteen · 14 fourteen · 15 fifteen · 20 twenty · 30 thirty · 40 forty · 50 fifty · 100 a hundred\n💡 Urg'u: thirTEEN (13) ≠ THIRty (30).",
+   "vocab": [
+    {
+     "en": "book",
+     "uz": "kitob",
+     "example": "It's a book."
+    },
+    {
+     "en": "phone",
+     "uz": "telefon",
+     "example": "This is my phone."
+    },
+    {
+     "en": "bag",
+     "uz": "sumka",
+     "example": "That's a bag."
+    },
+    {
+     "en": "key",
+     "uz": "kalit",
+     "example": "These are keys."
+    },
+    {
+     "en": "watch",
+     "uz": "soat",
+     "example": "It's a watch."
+    },
+    {
+     "en": "box",
+     "uz": "quti",
+     "example": "Those are boxes."
+    },
+    {
+     "en": "pen",
+     "uz": "ruchka",
+     "example": "What's this? It's a pen."
+    },
+    {
+     "en": "chair",
+     "uz": "stul",
+     "example": "That's a chair."
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "___ is a book. (yaqinda, bitta)",
+     "options": [
+      "This",
+      "These",
+      "Those"
+     ],
+     "answer": "This",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "___ are my keys. (yaqinda, ko'p)",
+     "options": [
+      "These",
+      "This",
+      "That"
+     ],
+     "answer": "These",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'box' ning ko'pligi:",
+     "options": [
+      "boxs",
+      "boxes",
+      "boxies"
+     ],
+     "answer": "boxes",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'watch' ning ko'pligi:",
+     "options": [
+      "watchs",
+      "watches",
+      "watchies"
+     ],
+     "answer": "watches",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "What's ___ in English? (uzoqda, bitta)",
+     "answer": [
+      "that"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "15 = ___ (so'z bilan)",
+     "answer": [
+      "fifteen"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "What's",
+      "in",
+      "this",
+      "English",
+      "?"
+     ],
+     "answer": "What's this in English ?"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "Is it a phone? — Yes, ___ is.",
+     "options": [
+      "it",
+      "this",
+      "they"
+     ],
+     "answer": "it",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Are they bags? — Yes, ___ are.",
+     "options": [
+      "they",
+      "it",
+      "these"
+     ],
+     "answer": "they",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "20 + 30 = ?",
+     "options": [
+      "fifty",
+      "forty",
+      "sixty"
+     ],
+     "answer": "fifty",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Qaysi biri 13?",
+     "options": [
+      "thirteen",
+      "thirty",
+      "three"
+     ],
+     "answer": "thirteen",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 12,
+      "what": "Objects; numbers 11–100 (vocabulary + pronunciation)"
+     },
+     {
+      "page": 13,
+      "what": "this/that/these/those; verb be (it/they)"
+     }
+    ],
+    "bot_task_uz": "📸 Uyingizdagi 3 ta narsani ko'rsating va 'This is a ... / These are ...' deb yozing."
+   }
+  },
+  {
+   "id": "2.2",
+   "title": "What's your job?",
+   "title_uz": "Kasbingiz nima?",
+   "coursebook": {
+    "page": 18,
+    "use": "jobs, verb be (he/she/it/they)"
+   },
+   "goals_uz": [
+    "Kasblarni aytish",
+    "he / she / they bilan be fe'li",
+    "a / an ishlatish"
+   ],
+   "explanation_uz": "<b>Verb be — he / she / it / they</b>\n\n✅ He's (=He is) a doctor. · She's a nurse. · They're engineers.\n❌ He isn't a driver. · They aren't teachers.\n❓ Is she a manager? → Yes, she is. / No, she isn't.\n❓ Are they students? → Yes, they are. / No, they aren't.\n\n💡 <b>a / an:</b> unli tovushdan oldin <b>an</b>: an engineer, an actor. Boshqalarida <b>a</b>: a doctor, a waiter.\n💡 Ko'plikda a/an yo'q: They're <i>doctors</i>.",
+   "vocab": [
+    {
+     "en": "teacher",
+     "uz": "o'qituvchi",
+     "example": "She's a teacher."
+    },
+    {
+     "en": "doctor",
+     "uz": "shifokor",
+     "example": "He's a doctor."
+    },
+    {
+     "en": "nurse",
+     "uz": "hamshira",
+     "example": "She's a nurse."
+    },
+    {
+     "en": "engineer",
+     "uz": "muhandis",
+     "example": "He's an engineer."
+    },
+    {
+     "en": "driver",
+     "uz": "haydovchi",
+     "example": "My father is a driver."
+    },
+    {
+     "en": "student",
+     "uz": "talaba",
+     "example": "They're students."
+    },
+    {
+     "en": "waiter",
+     "uz": "ofitsiant",
+     "example": "He's a waiter."
+    },
+    {
+     "en": "manager",
+     "uz": "menejer",
+     "example": "She's a manager."
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "She ___ a teacher.",
+     "options": [
+      "is",
+      "are",
+      "am"
+     ],
+     "answer": "is",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "They ___ doctors.",
+     "options": [
+      "are",
+      "is",
+      "am"
+     ],
+     "answer": "are",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "He's ___ engineer.",
+     "options": [
+      "an",
+      "a",
+      "the"
+     ],
+     "answer": "an",
+     "hint_uz": "engineer — unli tovush bilan boshlanadi"
+    },
+    {
+     "type": "fill",
+     "q": "Is she a nurse? — No, she ___ .",
+     "answer": [
+      "isn't",
+      "is not"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "What's your job? — I'm a ___ (o'qituvchi).",
+     "answer": [
+      "teacher"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "is",
+      "He",
+      "a",
+      "waiter"
+     ],
+     "answer": "He is a waiter"
+    },
+    {
+     "type": "order",
+     "words": [
+      "Is",
+      "a",
+      "manager",
+      "she",
+      "?"
+     ],
+     "answer": "Is she a manager ?"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "Are they drivers? — No, they ___ .",
+     "options": [
+      "aren't",
+      "isn't",
+      "not"
+     ],
+     "answer": "aren't",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'Hamshira' inglizcha:",
+     "options": [
+      "nurse",
+      "doctor",
+      "waiter"
+     ],
+     "answer": "nurse",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Qaysi gap to'g'ri?",
+     "options": [
+      "He's a engineer.",
+      "He's an engineer.",
+      "He an engineer."
+     ],
+     "answer": "He's an engineer.",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Is he a student? — Yes, ___ .",
+     "options": [
+      "he is",
+      "he's",
+      "it is"
+     ],
+     "answer": "he is",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 14,
+      "what": "Jobs (vocabulary + pronunciation: word stress)"
+     },
+     {
+      "page": 15,
+      "what": "Verb be (he/she/it/they)"
+     }
+    ],
+    "bot_task_uz": "👨‍⚕️ Oila a'zolaringizdan 3 tasining kasbini inglizcha yozing: 'My father is a ...'"
+   }
+  },
+  {
+   "id": "2.3",
+   "title": "Where are they?",
+   "title_uz": "Ular qayerda?",
+   "coursebook": {
+    "page": 20,
+    "use": "subject pronouns, prepositions of place"
+   },
+   "goals_uz": [
+    "Olmoshlar: I, you, he, she, it, we, they",
+    "in, on, near, next to bilan joyni aytish"
+   ],
+   "explanation_uz": "<b>Subject pronouns (ega olmoshlari)</b>\nI · you · he · she · it · we · they\n\n• Anna → <b>she</b> · Tom → <b>he</b> · the phone → <b>it</b>\n• Tom and Anna → <b>they</b> · Tom and I → <b>we</b>\n\n<b>Joy predloglari:</b>\n• <b>in</b> — ichida: <i>The keys are in the bag.</i>\n• <b>on</b> — ustida: <i>The book is on the table.</i>\n• <b>near</b> — yaqinida: <i>The bag is near the door.</i>\n• <b>next to</b> — yonida: <i>The chair is next to the desk.</i>\n\n❓ Where's the key? → It's on the table.",
+   "vocab": [
+    {
+     "en": "table",
+     "uz": "stol",
+     "example": "The book is on the table."
+    },
+    {
+     "en": "desk",
+     "uz": "yozuv stoli",
+     "example": "The chair is next to the desk."
+    },
+    {
+     "en": "window",
+     "uz": "deraza",
+     "example": "The bag is near the window."
+    },
+    {
+     "en": "door",
+     "uz": "eshik",
+     "example": "She's near the door."
+    },
+    {
+     "en": "in",
+     "uz": "ichida",
+     "example": "It's in the bag."
+    },
+    {
+     "en": "on",
+     "uz": "ustida",
+     "example": "It's on the chair."
+    },
+    {
+     "en": "near",
+     "uz": "yaqinida",
+     "example": "We're near the school."
+    },
+    {
+     "en": "next to",
+     "uz": "yonida",
+     "example": "He's next to me."
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "Anna is my sister. ___ is a nurse.",
+     "options": [
+      "She",
+      "He",
+      "They"
+     ],
+     "answer": "She",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Tom and Ben are students. ___ are here.",
+     "options": [
+      "They",
+      "We",
+      "He"
+     ],
+     "answer": "They",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "The phone is ___ the table. (ustida)",
+     "options": [
+      "on",
+      "in",
+      "near"
+     ],
+     "answer": "on",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "The book is ___ the bag. (ichida)",
+     "options": [
+      "in",
+      "on",
+      "next to"
+     ],
+     "answer": "in",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "The chair is ___ to the desk. (yonida)",
+     "answer": [
+      "next"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "is",
+      "key",
+      "Where",
+      "the",
+      "?"
+     ],
+     "answer": "Where is the key ?"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "My mother and I are at home. ___ are at home.",
+     "options": [
+      "We",
+      "They",
+      "She"
+     ],
+     "answer": "We",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "'Near' o'zbekcha:",
+     "options": [
+      "ichida",
+      "yaqinida",
+      "ustida"
+     ],
+     "answer": "yaqinida",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "The pen is ___ the box. (ichida)",
+     "options": [
+      "in",
+      "on",
+      "next to"
+     ],
+     "answer": "in",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "The cat is a small animal. ___ is small.",
+     "options": [
+      "It",
+      "He",
+      "They"
+     ],
+     "answer": "It",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 16,
+      "what": "Subject pronouns"
+     },
+     {
+      "page": 17,
+      "what": "Prepositions of place"
+     }
+    ],
+    "bot_task_uz": "🏠 Xonangizdagi 3 ta narsa qayerdaligini yozing: 'The phone is on the table.'"
+   }
+  },
+  {
+   "id": "2.4",
+   "title": "Speaking and writing",
+   "title_uz": "Gapirish va yozish: vaqt, blog",
+   "coursebook": {
+    "page": 22,
+    "use": "telling the time; a blog"
+   },
+   "goals_uz": [
+    "Vaqtni inglizchada aytish",
+    "Oddiy blog yozish"
+   ],
+   "explanation_uz": "<b>What time is it? — Soat necha?</b>\n\n🕒 3:00 — It's three <b>o'clock</b>.\n🕞 3:30 — It's <b>half past</b> three.\n🕒 3:15 — It's <b>quarter past</b> three.\n🕒 2:45 — It's <b>quarter to</b> three.\n🕒 3:10 — It's ten <b>past</b> three. · 2:50 — It's ten <b>to</b> three.\n\n📝 <b>Blog namunasi:</b>\n<i>Hi! I'm Aziz. I'm from Tashkent. I'm a student. My brother is a doctor. Bye!</i>",
+   "vocab": [
+    {
+     "en": "o'clock",
+     "uz": "aniq soat",
+     "example": "It's five o'clock."
+    },
+    {
+     "en": "half past",
+     "uz": "yarim (30 daqiqa)",
+     "example": "It's half past six."
+    },
+    {
+     "en": "quarter past",
+     "uz": "15 daqiqa o'tdi",
+     "example": "It's quarter past two."
+    },
+    {
+     "en": "quarter to",
+     "uz": "15 daqiqa qoldi",
+     "example": "It's quarter to nine."
+    },
+    {
+     "en": "past",
+     "uz": "o'tdi",
+     "example": "It's ten past four."
+    },
+    {
+     "en": "to",
+     "uz": "qoldi",
+     "example": "It's ten to five."
+    },
+    {
+     "en": "time",
+     "uz": "vaqt",
+     "example": "What time is it?"
+    },
+    {
+     "en": "blog",
+     "uz": "blog",
+     "example": "I write a blog."
+    }
+   ],
+   "practice": [
+    {
+     "type": "choice",
+     "q": "3:00 —",
+     "options": [
+      "It's three o'clock.",
+      "It's half past three.",
+      "It's quarter to three."
+     ],
+     "answer": "It's three o'clock.",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "6:30 —",
+     "options": [
+      "It's half past six.",
+      "It's quarter past six.",
+      "It's six o'clock."
+     ],
+     "answer": "It's half past six.",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "4:15 —",
+     "options": [
+      "It's quarter past four.",
+      "It's quarter to four.",
+      "It's half past four."
+     ],
+     "answer": "It's quarter past four.",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "8:45 —",
+     "options": [
+      "It's quarter to nine.",
+      "It's quarter past eight.",
+      "It's nine o'clock."
+     ],
+     "answer": "It's quarter to nine.",
+     "hint_uz": ""
+    },
+    {
+     "type": "fill",
+     "q": "What ___ is it?",
+     "answer": [
+      "time"
+     ],
+     "hint_uz": ""
+    },
+    {
+     "type": "order",
+     "words": [
+      "is",
+      "time",
+      "What",
+      "it",
+      "?"
+     ],
+     "answer": "What time is it ?"
+    }
+   ],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "'Half past' necha daqiqa?",
+     "options": [
+      "15",
+      "30",
+      "45"
+     ],
+     "answer": "30",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "It's ten ___ five. (5:00 ga 10 daqiqa qoldi)",
+     "options": [
+      "to",
+      "past",
+      "at"
+     ],
+     "answer": "to",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 18,
+      "what": "Speaking: telling the time; Writing: a blog"
+     }
+    ],
+    "bot_task_uz": "🕒 Blog yozing: o'zingiz, oilangiz va kasbingiz haqida 4–5 gap (Hi! I'm ...)."
+   }
+  },
+  {
+   "id": "2.5",
+   "title": "Video: Witney Antiques + Review",
+   "title_uz": "Video: antikvar do'koni + Takrorlash",
+   "coursebook": {
+    "page": 24,
+    "use": "video va 2-bo'lim takrori",
+    "review_page": 25
+   },
+   "goals_uz": [
+    "Videoni tushunish",
+    "2-bo'lim materialini takrorlash"
+   ],
+   "explanation_uz": "🎬 Videoni ko'ring: do'konda qanday narsalar bor? Kimlar ishlaydi? Kasblari nima?\n\n📚 Takrorlash: this/that/these/those · be (he/she/it/they) · kasblar · olmoshlar · in/on/near/next to · vaqt · 11–100.",
+   "vocab": [],
+   "practice": [],
+   "quiz": [
+    {
+     "type": "choice",
+     "q": "___ are my books. (yaqinda, ko'p)",
+     "options": [
+      "These",
+      "This",
+      "That"
+     ],
+     "answer": "These",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "He ___ a driver.",
+     "options": [
+      "is",
+      "are",
+      "am"
+     ],
+     "answer": "is",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Ko'plik: 'watch' →",
+     "options": [
+      "watches",
+      "watchs",
+      "watchies"
+     ],
+     "answer": "watches",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "The keys are ___ the bag. (ichida)",
+     "options": [
+      "in",
+      "on",
+      "near"
+     ],
+     "answer": "in",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Tom and Ben — ___ are students.",
+     "options": [
+      "They",
+      "He",
+      "We"
+     ],
+     "answer": "They",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "2:45 —",
+     "options": [
+      "quarter to three",
+      "quarter past two",
+      "half past two"
+     ],
+     "answer": "quarter to three",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "40 =",
+     "options": [
+      "forty",
+      "fourteen",
+      "fifty"
+     ],
+     "answer": "forty",
+     "hint_uz": ""
+    },
+    {
+     "type": "choice",
+     "q": "Is she a nurse? — No, she ___ .",
+     "options": [
+      "isn't",
+      "aren't",
+      "not"
+     ],
+     "answer": "isn't",
+     "hint_uz": ""
+    }
+   ],
+   "homework": {
+    "workbook": [
+     {
+      "page": 19,
+      "what": "Review: Units 1 & 2"
+     }
+    ],
+    "bot_task_uz": "🏁 2-bo'lim imtihoni: 80% dan yuqori bo'lsa 3-bo'lim ochiladi."
+   }
+  }
+ ],
+ "vocab_review_after": 3,
+ "exam": {
+  "pass_percent": 80,
+  "note_uz": "Imtihon savollari dars quizlaridan tuziladi (seeder avtomatik)."
+ },
+ "copyright_note": "Mashqlar va tushuntirishlar original yozilgan; kitob mashqlari ko'chirilmagan — uyga vazifa sahifa raqami bilan havola qilinadi."
+}
